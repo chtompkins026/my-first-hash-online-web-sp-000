@@ -1,7 +1,7 @@
 def my_hash
   hash = { 
-    "Tony Romo" => "Dallas Cowboys"
-    "Troy Aikman" => "Dallas Cowboys"
+    "Tony Romo" => "Dallas Cowboys",
+    "Troy Aikman" => "Dallas Cowboys",
     "LeBron James" => "Los Angeles Lakers"
   }
 end
