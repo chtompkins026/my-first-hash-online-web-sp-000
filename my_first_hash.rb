@@ -1,5 +1,5 @@
 def my_hash
-  hash { 
+  hash = { 
     "Tony Romo" => "Dallas Cowboys"
     "Troy Aikman" => "Dallas Cowboys"
     "LeBron James" => "Los Angeles Lakers"
